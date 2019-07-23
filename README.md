@@ -11,4 +11,4 @@ EFI for mojave 10.14.4
 - Mount EFI forder using Clover and just replace it with EFI folder in this repo
 - Restart your hackintosh and it just works: Ethernet, Intel 4600, Sound, Sleep, Restart, Shutdown but not NVIDIA
 
-#Note that UniBeast and Clover are uploaded in repo
+## Note that UniBeast and Clover are uploaded in repo
